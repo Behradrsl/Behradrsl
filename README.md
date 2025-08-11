@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Behrad Rasouly
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat\&logo=Twitter\&logoColor=white\&link=https://twitter.com/behradrasouly)](https://twitter.com/behradrasouly)
+[![X Badge](https://img.shields.io/badge/-X-black?style=flat&logo=x&logoColor=white&link=https://x.com/behradrasouly)](https://x.com/behradrasouly)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat\&logo=Linkedin\&logoColor=white\&link=https://linkedin.com/in/behradrasouly)](https://linkedin.com/in/behradrasouly)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat\&logo=instagram\&logoColor=white\&link=https://instagram.com/behradrasouly111)](https://instagram.com/behradrasouly111)
 [![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat\&logo=gmail\&logoColor=white\&link=mailto\:itsbehradrasouly@gmail.com)](mailto:itsbehradrasouly@gmail.com)
