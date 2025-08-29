@@ -25,16 +25,15 @@ Here are some ideas to get you started:
 
 ---
 
-🌱 I'm a Machine Learning enthusiast, eager to learn and improve every single day.  
+🌱 I'm a Deep Learning enthusiast, eager to learn and improve every single day.  
 
 ---
 
 ### 🖥 Skills
 
-* Machine Learning
+* Rainforcement Learning
 * Deep Learning
 * Natural Language Processing
-* Computer Vision
 
 ---
 
