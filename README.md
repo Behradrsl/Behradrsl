@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### 🖥 Skills
 
-* Rainforcement Learning
+* Reinforcement Learning
 * Deep Learning
 * Natural Language Processing
 
